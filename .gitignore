@@ -4,3 +4,4 @@ dist
 bbtag_scripts
 *.spec
 .idea
+__pycache__
