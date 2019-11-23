@@ -1,0 +1,6 @@
+venv-tk
+build
+dist
+bbtag_scripts
+*.spec
+.idea
